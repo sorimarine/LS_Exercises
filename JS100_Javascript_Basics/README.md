@@ -1,0 +1,1 @@
+This folder houses my solutions to **JS100 JavaScript Basics** exercises
