@@ -1,0 +1,1 @@
+- An excellent destination when looking for JavaScript documentation is on the JavaScript pages on MDN.

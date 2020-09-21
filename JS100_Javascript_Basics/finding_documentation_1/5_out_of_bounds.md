@@ -1,0 +1,1 @@
+Accessing an element that is out of array bounds returns undefined.

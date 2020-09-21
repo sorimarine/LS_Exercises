@@ -1,0 +1,1 @@
+- JavaScript does not have a built-in method to capitalize a string.

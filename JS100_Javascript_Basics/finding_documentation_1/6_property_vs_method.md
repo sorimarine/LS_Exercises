@@ -1,0 +1,3 @@
+- 'palm tree'
+- 'palm tree'
+- 'sequoia'

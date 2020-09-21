@@ -1,0 +1,1 @@
+This repository houses my solutions to all the Launch School exercise problems.
