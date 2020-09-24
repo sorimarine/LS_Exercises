@@ -1,0 +1,12 @@
+- Problem 
+  - input: one integer argument
+  - output:
+    - true if absolute value is odd
+    - false otherwise
+  - assume argument is a valid integer
+
+- Examples given
+- Data Structures: Number
+- Algorithm:
+  - if input % 2 is not 0 or -0, return true
+  - else return false
